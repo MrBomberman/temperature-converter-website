@@ -1,10 +1,15 @@
 .title {
-    color: grey;
+    color: rgb(151, 166, 233);
     margin-bottom: 3px;
     font-size: 22px;
 }
 .input {
-    font-size: 22px;
-    background: #f3e6b4;
-    color: #7b7b7b;
+    font-size: 20px;
+    background: white;
+    color: darkblue;
+    border-radius: 10px;
+    height: 40px;
+}
+.input::placeholder{
+    color: rgb(151, 166, 233);
 }
