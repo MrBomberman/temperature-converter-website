@@ -1,5 +1,7 @@
 .styleBtn{
-    background-color: wheat;
+    background-color: darkblue;
+    color: white;
     font-size: 22px;
     border-radius: 9px;
+    height: 40px;
 }
