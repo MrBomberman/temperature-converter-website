@@ -1,9 +1,12 @@
 .title {
-    color: blue;
+    color: darkblue;
     font-size: 22px;
 }
 .result {
     font-size: 22px;
-    font-style: italic;
     margin-bottom: 30px;
+    background-color: darkblue;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 0;
 }
