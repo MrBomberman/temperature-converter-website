@@ -5,3 +5,7 @@
     border-radius: 9px;
     height: 40px;
 }
+
+.styleBtn:disabled{
+    background-color: grey;
+}
