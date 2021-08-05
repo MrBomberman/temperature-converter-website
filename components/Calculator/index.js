@@ -35,7 +35,7 @@ function Calculator(){
                 <SelectionWindow setType={(value) => setType(value)}/>
                 </div>
                 <div className={classes.inputBar}>
-                <ConvertButton convertDegrees={convertDegrees} type={type}/>
+                <ConvertButton convertDegrees={convertDegrees} type={type} degrees={degrees}/>
                 </div>
              </div>
             <div className={classes.result}>
